@@ -27,8 +27,6 @@ html {
   overscroll-behavior: none;
 }
 
-
-
 .image-wrapper {
   position: relative;
   display: inline-flex;
