@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import weddingImage from './images/countdown251126.jpg';
+import weddingImage from './images/countdown251126_v2.jpg';
 import './App.css';
 
 function App() {
