@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/wedding-countdown/static/css/main.4a100b8b.css",
-    "main.js": "/wedding-countdown/static/js/main.34e0b37a.js",
+    "main.js": "/wedding-countdown/static/js/main.9b57a1f3.js",
     "static/js/453.1bc56c67.chunk.js": "/wedding-countdown/static/js/453.1bc56c67.chunk.js",
     "static/media/countdown251126_v2.jpg": "/wedding-countdown/static/media/countdown251126_v2.0ed285943a8b6022ad49.jpg",
     "index.html": "/wedding-countdown/index.html",
     "main.4a100b8b.css.map": "/wedding-countdown/static/css/main.4a100b8b.css.map",
-    "main.34e0b37a.js.map": "/wedding-countdown/static/js/main.34e0b37a.js.map",
+    "main.9b57a1f3.js.map": "/wedding-countdown/static/js/main.9b57a1f3.js.map",
     "453.1bc56c67.chunk.js.map": "/wedding-countdown/static/js/453.1bc56c67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a100b8b.css",
-    "static/js/main.34e0b37a.js"
+    "static/js/main.9b57a1f3.js"
   ]
 }
