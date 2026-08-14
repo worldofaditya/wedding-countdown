@@ -7,7 +7,7 @@ function App() {
 
   useEffect(() => {
     // Set your target date here (YYYY-MM-DD format)
-    const targetDate = new Date('2026-11-25T00:00:00').getTime();
+    const targetDate = new Date('2026-11-25T23:00:00').getTime();
 
     const calculateDays = () => {
       const now = new Date().getTime();
